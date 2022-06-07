@@ -1,0 +1,10 @@
+.blog{
+    background-color: #83c5be;
+    height: 100vh;
+    padding-top: 3%;
+}
+
+.blogimage{
+    height: 200px;
+    width: 200px;
+}

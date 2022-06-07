@@ -1,0 +1,11 @@
+.info {
+  background-color: #83c5be;
+  height: 100vh;
+  padding-top: 3%;
+}
+
+.avatarImg {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
